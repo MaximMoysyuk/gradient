@@ -1,0 +1,82 @@
+/* .box1 {
+    width: 500px;
+    height: 400px;
+    background-image: linear-gradient(to bottom, red, yellow, green);
+    } */
+    /* .box2 {
+        width: 500px;
+    height: 400px;
+    background-image: linear-gradient(to right bottom, red, yellow, green);
+    } */
+    /* .box3 {
+    width: 500px;
+    height: 400px;
+    background-image: linear-gradient(60deg, red, yellow, green);
+    } */
+    /* .box4 {
+        width: 500px;
+        height: 400px;
+        background-image: linear-gradient(60deg, red 30%, yellow 50%, green);
+    } */
+    /* .box5 {
+        width: 500px;
+        height: 400px;
+        background-image: linear-gradient(60deg, red 0%, red 35%, yellow 35%, yellow 70%, green 70%);
+    } */
+    /* .box6 {
+        width: 500px;
+        height: 400px;
+        background-image: radial-gradient(aqua, purple, yellow, black);
+    } */
+    /* .box7 {
+        width: 500px;
+        height: 400px;
+        background-image: radial-gradient(at center, aqua, purple, yellow, black);
+    } */
+    /* .box8 {
+        width: 500px;
+        height: 400px;
+        background-image: radial-gradient(circle at top right, aqua, purple, yellow, black);
+    } */
+    /* .box9 {
+        width: 500px;
+        height: 400px;
+        background-image: radial-gradient(ellipse at bottom right, aqua, purple, yellow, black);
+    } */
+    /* .box10 {
+        width: 500px;
+        height: 400px;
+        background-image: radial-gradient(ellipse at bottom right, aqua 30%, red 30%, red 50%, yellow 50%, yellow 70%, black 70%);
+    } */
+    /* .box11 {
+        width: 500px;
+        height: 400px;
+        background-image: repeating-linear-gradient(to right, red, yellow, orange);
+    } */
+    /* .box12 {
+        width: 500px;
+        height: 400px;
+        background-image: repeating-linear-gradient(to right, red 10%, yellow 20%, orange 50%);
+    } */
+    /* .box13 {
+        width: 500px;
+        height: 400px;
+        background-image: repeating-linear-gradient(to right, red 10%, yellow 20%, orange 50%);
+    } */
+    .box14 {
+        width: 1200px;
+        height: 700px;
+        font-size: 150px;
+        color: yellow;
+        border: 1px solid red;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        /* background-image: url(photo_2024-06-21_18-39-47.png); */
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(../img/photo_2024-06-21_18-39-47.jpg);
+    }
+    .box15 {
+    
+    }
